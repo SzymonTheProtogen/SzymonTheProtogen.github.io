@@ -1,1 +1,0 @@
-# SzymonTheProtogen.github.io
