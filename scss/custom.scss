@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-colors: (
+  "light-gray": #b3b3b3
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+@import "../node_modules/bootstrap/scss/bootstrap";
